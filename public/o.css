@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; margin: 0; padding: 2rem 1.25rem; color: #222; background: #fafafa; }
+main { max-width: 32rem; margin: 0 auto; }
+#name { font-weight: 600; word-break: break-word; }
+#open { display: inline-block; margin-top: 1rem; padding: 0.8rem 1.4rem; border-radius: 0.5rem; background: #6c3fc5; color: #fff; text-decoration: none; font-size: 1.1rem; }
+#open[hidden] { display: none; }
